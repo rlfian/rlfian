@@ -1,129 +1,113 @@
 <div align="center">
-  <!-- Dynamic 3D Curved Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0:000428,50:004e92,100:00f2fe&height=220&section=header&text=Rio%20Alfian&fontSize=52&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Agent%20Architect%20%E2%80%A2%20Fullstack%20Dev&descFontSize=20&descAlignY=64&fontColor=ffffff" width="100%" />
+  <!-- Cyber Dark Technological Header -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0:050811,40:0f172a,80:0284c7,100:00ffcc&height=210&section=header&text=RIO%20ALFIAN&fontSize=48&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20AI%20AGENT%20SYSTEMS%20%7C%20FULLSTACK&descFontSize=18&descAlignY=64&fontColor=ffffff" width="100%" />
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Tech Monospace Typing -->
   <a href="https://github.com/rlfian">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F2FE&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hi%2C+I'm+Rio+Alfian!+%F0%9F%91%8B;%F0%9F%9A%80+Engineering+Modern+Web+%26+Mobile+Ecosystems;%F0%9F%A7%A0+Architecting+Autonomous+AI+Agents;%F0%9F%94%A5+Crafting+Scalable%2C+High-Impact+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFCC&center=true&vCenter=true&width=620&lines=SYSTEM+INITIALIZED:+RIO+ALFIAN;ENGINEERING+HIGH-PERFORMANCE+WEB+%26+SYSTEMS;ARCHITECTING+AUTONOMOUS+AI+AGENTS;DATA+ANALYSIS+%7C+DISTRIBUTED+COMPUTING" alt="Terminal Output" />
   </a>
 
-  <!-- Animated Badges & Visitors -->
+  <!-- Tech Metric Tags -->
   <p align="center">
     <a href="https://github.com/rlfian">
-      <img src="https://komarev.com/ghpvc/?username=rlfian&label=Profile%20Views&color=007ec6&style=flat-square" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=rlfian&label=SYSTEM_VISITS&color=0284c7&style=flat-square" alt="Traffic Monitor" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Innovating%20%26%20Building-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Fullstack-00f2fe?style=flat-square&logo=openai&logoColor=black" alt="Focus" />
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ffcc?style=flat-square&logo=terminal&logoColor=050811" alt="Status" />
+    <img src="https://img.shields.io/badge/STACK-AI_AGENT_CORE-0f172a?style=flat-square&logoColor=00ffcc" alt="Architecture" />
   </p>
 </div>
 
 <br/>
 
-<!-- 3D Holographic / Dev Intro Section with Isometric 3D Illustration -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>âš¡ About Me</h3>
-      <p>
-        I'm a passionate <b>Software Engineer</b> and <b>AI Systems Builder</b> based in Indonesia ðŸ‡®ðŸ‡©. I love crafting high-performance applications, exploring deep tech, and building autonomous agentic workflows that bridge human intuition with machine intelligence.
-      </p>
-      <ul>
-        <li>ðŸ”­ <b>Currently Building:</b> AI Agents, Intelligent Automation, and Next-Gen Web Platforms.</li>
-        <li>ðŸ’¡ <b>Core Interests:</b> Distributed Systems, Machine Learning, Computer Vision, & Reactive UI.</li>
-        <li>ðŸŒ± <b>Exploring:</b> Large Language Model orchestration, Multi-agent teams, and Cloud Architectures.</li>
-        <li>ðŸ“« <b>Get in Touch:</b> <a href="mailto:rlfiann26@gmail.com">rlfiann26@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="280" alt="Coding 3D Animation" />
-    </td>
-  </tr>
-</table>
+<!-- Terminal Spec / Developer Dossier -->
+```yaml
+IDENTITY: Rio Alfian
+ROLE: Software Engineer & AI Systems Architect
+LOCATION: Indonesia
+SPECIALIZATION: Fullstack Engineering, Autonomous AI Workflows, Data Analytics
+RUNTIME_ENVIRONMENT: Python, TypeScript, C++, Modern Cloud & Mobile
+MISSION: Building deterministic, high-throughput autonomous software systems
+COMMUNICATION: rlfiann26@gmail.com
+```
 
 ---
 
-### ðŸ Animated Contribution Grid (Snake Game Motion)
+### CONTRIBUTION MATRIX
 
 <div align="center">
-  <p><i>Watch the animated snake slither through my GitHub contribution graph eating commits!</i></p>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlfian/rlfian/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlfian/rlfian/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rlfian/rlfian/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img alt="Contribution Stream" src="https://raw.githubusercontent.com/rlfian/rlfian/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
 ---
 
-### ðŸ“Š Live Activity Stream & Contribution Wave
+### TELEMETRY AND ACTIVITY GRAPH
 
 <div align="center">
   <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlfian&theme=tokyo-night&area=true&hide_border=true&radius=12" alt="Contribution Wave Graph" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlfian&bg_color=050811&color=00ffcc&line=0284c7&point=38bdf8&area=true&hide_border=true&radius=8" alt="Activity Telemetry" width="98%" />
   </picture>
-  <br/><br/>
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rlfian&theme=radical&no-frame=true&margin-w=4&row=1&column=7" alt="Rio's Trophies" width="100%" />
 </div>
 
 ---
 
-### ðŸ› ï¸ Tech Universe & Tooling
+### TECH STACK AND TOOLS
 
 <div align="center">
 
-| Ecosystem | Technologies & Frameworks |
+| DOMAIN | TECHNOLOGIES |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,kotlin,java,c,html,css" /> |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma" /> |
-| **Mobile & Native** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin" /> |
-| **Backend & Runtime** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> |
-| **AI, Vision & Data** | <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,scikitlearn" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,gcp,bash" /> |
+| **LANGUAGES** | <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,kotlin,java,c,html,css&theme=dark" /> |
+| **FRONTEND** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,figma&theme=dark" /> |
+| **MOBILE** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin&theme=dark" /> |
+| **BACKEND** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" /> |
+| **AI AND DATA** | <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,scikitlearn&theme=dark" /> |
+| **INFRASTRUCTURE** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,gcp,bash&theme=dark" /> |
 
 </div>
 
 ---
 
-### ðŸ“ˆ GitHub Analytics & Dynamics
+### SYSTEM ANALYTICS
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=rlfian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&borderRadius=12" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rlfian&show_icons=true&bg_color=050811&title_color=00ffcc&text_color=94a3b8&icon_color=0284c7&border_color=0f172a&hide_border=false&include_all_commits=true&count_private=true&borderRadius=8" width="100%" alt="System Metrics" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlfian&layout=donut&theme=tokyonight&hide_border=true&borderRadius=12" width="100%" alt="Top Languages Donut" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlfian&layout=donut&bg_color=050811&title_color=00ffcc&text_color=94a3b8&border_color=0f172a&hide_border=false&borderRadius=8" width="100%" alt="Language Breakdown" />
       </td>
     </tr>
   </table>
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlfian&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak Stats" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=rlfian&theme=dark&background=050811&border=0F172A&stroke=0284C7&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&border_radius=8" alt="Streak Telemetry" width="98%" />
 </div>
 
 ---
 
-### ðŸ“¡ Connect With Me
+### NETWORK CHANNELS
 
 <div align="center">
   <a href="mailto:rlfiann26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-rlfiann26%40gmail.com-050811?style=flat-square&logo=gmail&logoColor=00ffcc" alt="Direct Mail" />
   </a>
   &nbsp;
   <a href="https://github.com/rlfian">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-rlfian-050811?style=flat-square&logo=github&logoColor=00ffcc" alt="GitHub Repository" />
   </a>
   &nbsp;
   <a href="https://t.me/herme_riobot">
-    <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM_AGENT-BOT-050811?style=flat-square&logo=telegram&logoColor=00ffcc" alt="Telegram Agent" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000428,50:004e92,100:00f2fe&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050811,40:0f172a,80:0284c7,100:00ffcc&height=90&section=footer" width="100%" />
 </div>
