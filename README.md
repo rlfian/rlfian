@@ -42,14 +42,29 @@
 
 ---
 
-### ðŸŒ 3D Isometric GitHub Contribution Skyline
+### ðŸ Animated Contribution Grid (Snake Game Motion)
 
 <div align="center">
-  <p><i>Live 3D block representation of repository activity and commits:</i></p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rlfian&theme=radical&no-frame=true&margin-w=4&row=1&column=7" alt="Rio's Trophies" width="100%" />
+  <p><i>Watch the animated snake slither through my GitHub contribution graph eating commits!</i></p>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rlfian/rlfian/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rlfian/rlfian/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rlfian/rlfian/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+---
+
+### ðŸ“Š Live Activity Stream & Contribution Wave
+
+<div align="center">
+  <picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rlfian&theme=tokyo-night&area=true&hide_border=true&radius=12" alt="Contribution Wave Graph" width="98%" />
+  </picture>
   <br/><br/>
-  <!-- 3D Isometric Contribution Graph -->
-  <img src="https://streak-stats.demolab.com?user=rlfian&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Weekly 3D Streak" width="95%" />
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rlfian&theme=radical&no-frame=true&margin-w=4&row=1&column=7" alt="Rio's Trophies" width="100%" />
 </div>
 
 ---
@@ -87,16 +102,6 @@
 
   <!-- Streak Stats Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlfian&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak Stats" width="98%" />
-</div>
-
----
-
-### ðŸ† GitHub Achievements & Milestones
-
-<div align="center">
-  <a href="https://github.com/rlfian">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rlfian&theme=tokyonight" alt="Profile Details 3D Summary" width="95%" />
-  </a>
 </div>
 
 ---
