@@ -101,10 +101,6 @@ COMMUNICATION: rlfiann26@gmail.com
     <img src="https://img.shields.io/badge/GITHUB-rlfian-050811?style=flat-square&logo=github&logoColor=00ffcc" alt="GitHub Repository" />
   </a>
   &nbsp;
-  <a href="https://t.me/herme_riobot">
-    <img src="https://img.shields.io/badge/TELEGRAM_AGENT-BOT-050811?style=flat-square&logo=telegram&logoColor=00ffcc" alt="Telegram Agent" />
-  </a>
-</div>
 
 <br/>
 
